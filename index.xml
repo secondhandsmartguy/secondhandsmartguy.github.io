@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second Hand Smart Guy Blog</title>
+    <link>https://secondhandsmartguy.github.io/</link>
+    <description>Recent content on Second Hand Smart Guy Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 01:47:58 +0100</lastBuildDate><atom:link href="https://secondhandsmartguy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The World is going exactly where it&#39;s supposed to go</title>
+      <link>https://secondhandsmartguy.github.io/posts/annual-letter-2021/</link>
+      <pubDate>Fri, 31 Dec 2021 01:47:58 +0100</pubDate>
+      
+      <guid>https://secondhandsmartguy.github.io/posts/annual-letter-2021/</guid>
+      <description>It was the summer of 2008 when I saw a movie that would change the trajectory of my life to the path it took to bring me to who I am today. I was completely unaware of the problematic life of the main actor, obviously unaware and unprepared for the next decade or so of the movie universe that that movie will start. I mean, I wasn&amp;rsquo;t even 11 yet, how could I be?</description>
+    </item>
+    
+  </channel>
+</rss>
